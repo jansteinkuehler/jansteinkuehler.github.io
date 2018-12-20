@@ -1,1 +1,5 @@
+---
+layout: default
+title: Jan Steinkühler
+---
 Hello, I'm a researcher in the field of biophysics and soft matter. In the past years my research was focused on the understanding, assembly and applications of biomembranes. I mostly work experimentally and use software tools to analysis and understand data acquired in the lab. In the future, I will upload some of the software here.
