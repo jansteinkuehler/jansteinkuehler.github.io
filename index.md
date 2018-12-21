@@ -9,8 +9,8 @@ Cellular Physiology and Biochemistry, 51,1544-1565
 Nano Letters 2018 (in press) 
 4.	Light guided motility of a minimal synthetic cell, S. M. Bartelt\*, J. Steinkühler\*, R. Dimova, S. V. Wegner \*equal contribution
 Nano Letters, 18(11), pp.7268-7274, 2018	   
-5.	Membrane fluctuations and acidosis regulate cooperative binding of “marker of self” CD47 with macrophage checkpoint receptor SIRPα, J. Steinkühler, B. Różycki, C. Alvey, R. Lipowsky, T.R. Weikl, R. Dimova.[Featured first-author interview]( http://jcs.biologists.org/content/132/4/jcs222141)
-J Cell Sci, 132(4)     
+5.	Membrane fluctuations and acidosis regulate cooperative binding of “marker of self” CD47 with macrophage checkpoint receptor SIRPα, J. Steinkühler, B. Różycki, C. Alvey, R. Lipowsky, T.R. Weikl, R. Dimova.
+J Cell Sci, 132(4)  [Featured first-author interview]( http://jcs.biologists.org/content/132/4/jcs222141)
 6.	Charged giant unilamellar vesicles prepared by electroformation exhibit nanotubes and transbilayer lipid asymmetry, J Steinkühler, P. De Tillieux, R.L. Knorr, R. Lipowsky, R. Dimova
 Scientific reports 8 (1), 11838, 2018
 7.	Micron-sized domains in quasi single-component giant vesicles, R.L. Knorr, J. Steinkühler, R Dimova 
