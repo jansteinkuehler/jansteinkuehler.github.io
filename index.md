@@ -3,14 +3,11 @@ Hello, I'm a researcher in the field of biophysics and soft matter. In the past 
 [Google Scholar Profile](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ)
 
 ### Publications
-1.	Molecular probes report large-scale mechanical properties of isolated plasma membrane,
-J. Steinkühler*, E. Sezgin, I. Urbancic, C. Eggeling, R. Dimova*  *corresponding authors
-Communications Biology, 2018, under review
 2.	Spatial relationship and functional relevance of three lipid domain populations at the erythrocyte surface, L. Conrard, A. Stommen, A-.S. Cloos, J. Steinkühler, R. Dimova, H. Pollet, T. Donatienne
 Cellular Physiology and Biochemistry, 51,1544-1565
 3.	Asymmetric ionic conditions generate large membrane curvatures, M. Karimi, J. Steinkühler, D. Roy, R. Dasgupta, R. Lipowsky and R. Dimova
 Nano Letters 2018 (in press) 
-4.	Light guided motility of a minimal synthetic cell, S. M. Bartelt*, J. Steinkühler*, R. Dimova, S. V. Wegner *equal contribution
+4.	Light guided motility of a minimal synthetic cell, S. M. Bartelt\*, J. Steinkühler**, R. Dimova, S. V. Wegner \*equal contribution
 Nano Letters, 18(11), pp.7268-7274, 2018	   
 5.	Membrane fluctuations and acidosis regulate cooperative binding of “marker of self” CD47 with macrophage checkpoint receptor SIRPα, J. Steinkühler, B. Różycki, C. Alvey, R. Lipowsky, T.R. Weikl, R. Dimova. Featured first-author interview http://jcs.biologists.org/content/132/4/jcs222141
 J Cell Sci, 132(4)     
