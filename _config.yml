@@ -5,6 +5,8 @@ author: Jan Steinkühler
 twitter:
   username: ja_steinkuehler
   card: summary
+google_site_verification: d9KX--tZJx5X2yWuyPT9MP77o_-XePz1IjSU9Ciy66k
+
 plugins: 
   - jekyll-sitemap
   - jekyll-seo-tag
