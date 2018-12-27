@@ -1,4 +1,4 @@
 theme: jekyll-theme-minimal
 title: Jan Steinkühler
-gems: 
+plugins: 
   - jekyll-sitemap
