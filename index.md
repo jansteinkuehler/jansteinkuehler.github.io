@@ -1,6 +1,6 @@
 Hello, I'm a researcher in the field of biophysics and soft matter. In the past years my research was focused on the understanding, assembly and applications of biomembranes. I mostly work experimentally and use software tools to analyze and understand data acquired in the lab. In the future, I will upload some of the software here.
 
-[Google Scholar Profile](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ)
+[Google Scholar Profile](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
 ### Publications
 2.	Spatial relationship and functional relevance of three lipid domain populations at the erythrocyte surface, L. Conrard, A. Stommen, A-.S. Cloos, J. Steinkühler, R. Dimova, H. Pollet, T. Donatienne
