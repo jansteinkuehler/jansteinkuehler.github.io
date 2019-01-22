@@ -1,4 +1,4 @@
-Hello, I'm a researcher in the field of biophysics and soft matter. In the past years my research was focused on the understanding, assembly and applications of biomembranes. Currently I work in the [Dimova Lab](www.dimova.de) at the [Max Planck Institute of Colloids and Interfaces](www.mpikg.mpg.de). I mostly work experimentally and use software tools to analyze and understand data acquired in the lab. In the future, I will upload some of the software here.
+Hello, I'm a researcher in the field of biophysics and soft matter. In the past years my research was focused on the understanding, assembly and applications of biomembranes. Currently I work in the [Dimova Lab](http://www.dimova.de) at the [Max Planck Institute of Colloids and Interfaces](http://www.mpikg.mpg.de). I mostly work experimentally and use software tools to analyze and understand data acquired in the lab. In the future, I will upload some of the software here.
 
 [Google Scholar Profile](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
