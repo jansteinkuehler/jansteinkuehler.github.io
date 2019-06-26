@@ -3,6 +3,8 @@ Hello, I'm a researcher in the field of biophysics and soft matter. In the past 
 [Google Scholar Profile](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
 ### Publications
+1. Mechanical properties of plasma membrane vesicles correlate with lipid order and viscosity and depend on cell density, Jan Steinkühler, Erdinc Sezgin, Iztok Urbančič, Christian Eggeling, Rumiana Dimova
+[Preprint](https://www.biorxiv.org/content/10.1101/669085v1)
 2.	Spatial relationship and functional relevance of three lipid domain populations at the erythrocyte surface, L. Conrard, A. Stommen, A-.S. Cloos, J. Steinkühler, R. Dimova, H. Pollet, T. Donatienne
 Cellular Physiology and Biochemistry, 51,1544-1565
 3.	Asymmetric ionic conditions generate large membrane curvatures, M. Karimi, J. Steinkühler, D. Roy, R. Dasgupta, R. Lipowsky and R. Dimova
