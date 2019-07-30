@@ -4,7 +4,7 @@ Hello, I'm a researcher in the field of biophysics and soft matter. In the past 
 
 ### Publications
 1. Lipid Charge Increases the Bending Rigidity of Bilayer Membranes, Hammad Ali Faizi, Jan Steinkühler, Shelli L Frey, Rumiana Dimova, Petia M Vlahovska
-Biophysical Journal 116 (3), 507a, 2019
+Soft matter, 2019
 1. Light controlled cell to cell adhesion and chemical communication in minimal synthetic cells, T Chakraborty, SM Bartelt, J Steinkühler, R Dimova, SV Wegner, Chemical Communications, 2019
 1. Mechanical properties of plasma membrane vesicles correlate with lipid order and viscosity and depend on cell density, Jan Steinkühler, Erdinc Sezgin, Iztok Urbančič, Christian Eggeling, Rumiana Dimova
 [Preprint](https://www.biorxiv.org/content/10.1101/669085v1)
