@@ -8,9 +8,8 @@ Hello, I'm a researcher in the field of biophysics and soft matter. In the past 
 _Communications Biology_, Volume 2, 337 2019
 [Full Text](https://www.nature.com/articles/s42003-019-0583-3)
 5.	Membrane fluctuations and acidosis regulate cooperative binding of “marker of self” CD47 with macrophage checkpoint receptor SIRPα, J. Steinkühler, B. Różycki, C. Alvey, R. Lipowsky, T.R. Weikl, R. Dimova., D. E. Discher
-_J Cell Sci_, 132(4) 2019
+_J Cell Sci_, 132(4) 2019 [Full Text](https://jansteinkuehler.github.io/jcs216770.full.pdf) with [Featured first-author interview]( http://jcs.biologists.org/content/132/4/jcs222141)
 4.	Light guided motility of a minimal synthetic cell, S. M. Bartelt\*, J. Steinkühler\*, R. Dimova, S. V. Wegner \*_equal contribution_ _Nano Letters_, 18(11), pp.7268-7274, 2018	[Full Text](https://jansteinkuehler.github.io/acs.nanolett.8b03469.pdf)
-[Full Text](https://jansteinkuehler.github.io/jcs216770.full.pdf) with [Featured first-author interview]( http://jcs.biologists.org/content/132/4/jcs222141)
 6.	Charged giant unilamellar vesicles prepared by electroformation exhibit nanotubes and transbilayer lipid asymmetry, J Steinkühler, P. De Tillieux, R.L. Knorr, R. Lipowsky, R. Dimova 
 _Scientific Reports_ 8 (1), 11838, 2018 
 [Full Text](https://www.nature.com/articles/s41598-018-30286-z)
