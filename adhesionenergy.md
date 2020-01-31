@@ -9,7 +9,7 @@ Note: The imaging quality and resolution will determine the accuracy of the meth
 It is advantageous to use a high NA water Immersion objective to limit spherical aberrations and achieve high resolution.
 Because the adhering vesicle shapes considered must be rotationally symmetric, it is sufficient to acquire a single side view of a adhering vesicle.This is conveniently done with the fast Galvo z-stage with allows to acquire a (x,z) image with a single confocal scan. As will become clear further below it is quite advantageous to overlay the image with the location of the adhesive substrate. This can be done quite elegantly using the light reflected form the water-substrate interface. This can be obtained quite easily on Leica SP microscopes using the "Reflection" presetting. Check for your specific microscope setup how to acquire such an image. This manual assumes that you have acquired an image similar to the one shown in Fig. 1A.
 
-![Figure 1](adhesionenergy/Figures-01.png)
+![Figure 1](adhesionenergy/Figures.png)
 
 Figure 1.Confocal image (side-view) of an adhering vesicle. Membrane (green) and substrate (red).
 
