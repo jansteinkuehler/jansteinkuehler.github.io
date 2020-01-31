@@ -5,17 +5,17 @@ Hello, I'm a researcher in the field of biophysics and soft matter. In the past 
 ### First author publications ###
 1. Controlled division of cell-sized vesicles by low densities of membrane-bound proteins, J. Steinkühler, R.L. Knorr, Z. Zhao, T. Bhatia, S.M. Bartelt, S. Wegner, R. Dimova and R. Lipowsky, _Nature Commun_. (accepted)
 1. Mechanical properties of plasma membrane vesicles correlate with lipid order, viscosity and cell density, J. Steinkühler, E. Sezgin, I. Urbančič, C. Eggeling, R. Dimova
-_Communications Biology_, Volume 2, Article number: 337 (2019)
+_Communications Biology_, Volume 2, 337 2019
 [Full Text](https://www.nature.com/articles/s42003-019-0583-3)
-4.	Light guided motility of a minimal synthetic cell, S. M. Bartelt\*, J. Steinkühler\*, R. Dimova, S. V. Wegner \*_equal contribution_ _Nano Letters_, 18(11), pp.7268-7274, 2018	[Full Text](https://jansteinkuehler.github.io/acs.nanolett.8b03469.pdf)
 5.	Membrane fluctuations and acidosis regulate cooperative binding of “marker of self” CD47 with macrophage checkpoint receptor SIRPα, J. Steinkühler, B. Różycki, C. Alvey, R. Lipowsky, T.R. Weikl, R. Dimova., D. E. Discher
-_J Cell Sci_, 132(4) 
+_J Cell Sci_, 132(4) 2019
+4.	Light guided motility of a minimal synthetic cell, S. M. Bartelt\*, J. Steinkühler\*, R. Dimova, S. V. Wegner \*_equal contribution_ _Nano Letters_, 18(11), pp.7268-7274, 2018	[Full Text](https://jansteinkuehler.github.io/acs.nanolett.8b03469.pdf)
 [Full Text](https://jansteinkuehler.github.io/jcs216770.full.pdf) with [Featured first-author interview]( http://jcs.biologists.org/content/132/4/jcs222141)
 6.	Charged giant unilamellar vesicles prepared by electroformation exhibit nanotubes and transbilayer lipid asymmetry, J Steinkühler, P. De Tillieux, R.L. Knorr, R. Lipowsky, R. Dimova 
-_Scientific reports_ 8 (1), 11838, 2018 
+_Scientific Reports_ 8 (1), 11838, 2018 
 [Full Text](https://www.nature.com/articles/s41598-018-30286-z)
 10.	Modulating Vesicle Adhesion by Electric Fields, J. Steinkühler, J. Agudo-Canalejo, R. Lipowsky, R. Dimova
-_Biophysical journal_ 111 (7), 1454-1464, 2016 
+_Biophysical Journal_ 111 (7), 1454-1464, 2016 
 [Full Text](https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(16)30751-2)
 14.	Characterization of Double Layer Alterations Induced by Charged Particles and Protein–Membrane Interactions Using Contactless Impedance Spectroscopy, J. Steinkühler, V. Charwat, L. Richter, P. Ertl
 _The Journal of Physical Chemistry B_ 116 (35), 10461-10469, 2012 
