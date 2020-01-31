@@ -14,3 +14,4 @@ This can be done quite elegantly using the light reflected form the water-substr
 This can be obtained quite easily on Leica SP microscopes using the "Reflection" presetting. 
 Check for your specific microscope setup how to acquire such an image. This manual assumes that you have acquired an image like the one shown in Figure 1.
 
+![Figure 1](adhesionenergy/Figures-01.png)
