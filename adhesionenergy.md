@@ -17,4 +17,4 @@ Check for your specific microscope setup how to acquire such an image. This manu
 [Figure 1](adhesionenergy/Figures-01.png) Figure 1. Confocal image (side-view) of an adhering vesicle. Membrane (green) and substrate (red).
 
 1. The first step is to load your image into ImageJ or Fiji and load the macro provided below. After downloading you can find the open the macro using Plugin -> Macros in Imagej/Fiji.
-2. After starting the macro will ask you to "select the ground line". This is the area where 
+2. After starting the macro will ask you to "select the ground line". This line is  used to determine the adhesion area and the extracted adhesion energy can be quite senstive to the precise value of adhesion area. Thus be consistent as what to count as the adhesion zone. In the overlay image of substrate and membrane signal the overlap can determind quite well by eye but you might consider to use a more quantivtive aproch for this measure. This should improve the scatter of the dater greatly.
