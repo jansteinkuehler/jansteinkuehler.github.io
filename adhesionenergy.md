@@ -19,7 +19,7 @@ Figure 1.Confocal image (side-view) of an adhering vesicle. Membrane (green) and
 3. After clicking ok the macro selects the polygon tool which you use to roughly select the membrane countur as shown in Fig 1C.
 4. In the next step a smooth spline is fitted through your points. Now is the time to correct the location of the points to accuratly reprsent the membrane countour like shown in Fig 1D.
 6. This will store the coordinates of the contour and adhesion disc in a file named after the image file. Note that also the origina image file is overwritten with the contour overlayed. In the following the textfile with the coordiantes is called ```1.txt```.
-5. Now start MATLAB and make sure that you download getRV3.m and tordeux_adhesive.m (links below) and all files are in the same path. Now you can calculate the adhesion energy.
+5. Now start MATLAB and make sure that you download ```getRV3.m``` and ```tordeux_adhesive.m``` (links below) and all files are in the same path. Now you can calculate the adhesion energy.
 ```
 >> data=importdata("1.txt");
 >> [rv,avg,dev,discarea]=getRV3(data,7.2)
@@ -33,6 +33,9 @@ dev =
     0.3614    4.3248    0.0000
 discarea =
    2.7559e+03
+```
+6.  This
+ ```
 >> tordeux_adhesive(rv,avg,dev,discarea)
 ans =
     0.4467
