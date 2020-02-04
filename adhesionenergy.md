@@ -18,11 +18,11 @@ Figure 1.Confocal image (side-view) of an adhering vesicle. Membrane (green) and
 2. After starting the macro will ask you to "select the ground line" (Fig. 1B). This line is used to determine the adhesion area and the extracted adhesion energy can be quite senstive to the precise value of adhesion area. Thus be consistent as what to count as the adhesion zone. In the overlay image of substrate and membrane signal the overlap can determind quite well by eye as the yellow region, but you might consider to use a more quantivtive aproch for this measure. This should improve the scatter of the data greatly.
 3. After clicking ok the macro selects the polygon tool which you use to roughly select the membrane countur as shown in Fig 1C.
 4. In the next step a smooth spline is fitted through your points. Now is the time to correct the location of the points to accuratly reprsent the membrane countour like shown in Fig 1D.
-6. This will...
-5. Now start MATLAB and locate the 
+6. This will store the coordinates of the contour and adhesion disc in a file named after the image file. Note that also the origina image file is overwritten with the contour overlayed. In the following the textfile with the coordiantes is called ```1.txt```.
+5. Now start MATLAB and make sure that you download getRV3.m and tordeux_adhesive.m (links below) and all files are in the same path. Now you can calculate the adhesion energy.
 ```
 >> data=importdata("1.txt");
-[rv,avg,dev,discarea]=getRV3(data,7.2)
+>> [rv,avg,dev,discarea]=getRV3(data,7.2)
 rv =
     0.8425    0.8424
 avg =
@@ -33,6 +33,8 @@ dev =
     0.3614    4.3248    0.0000
 discarea =
    2.7559e+03
->> 
+>> tordeux_adhesive(rv,avg,dev,discarea)
+ans =
+    0.4467
 ```
-5
+5. The result is the adhesion energy normalized by bending ridigity kappa in units of microm^(-2).
