@@ -3,7 +3,7 @@ Hello, I'm a researcher in the field of biophysics and soft matter. In the past 
 [Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
 ### First author publications ###
-1. Controlled division of cell-sized vesicles by low densities of membrane-bound proteins, J. Steinkühler, R.L. Knorr, Z. Zhao, T. Bhatia, S.M. Bartelt, S. Wegner, R. Dimova and R. Lipowsky, _Nature Commun_. (accepted)
+1. Controlled division of cell-sized vesicles by low densities of membrane-bound proteins, J. Steinkühler, R.L. Knorr, Z. Zhao, T. Bhatia, S.M. Bartelt, S. Wegner, R. Dimova and R. Lipowsky, _Nat Commun_ 11, 905 (2020) [Full Text](https://www.nature.com/articles/s41467-020-14696-0)
 1. Mechanical properties of plasma membrane vesicles correlate with lipid order, viscosity and cell density, J. Steinkühler, E. Sezgin, I. Urbančič, C. Eggeling, R. Dimova
 _Communications Biology_, Volume 2, 337 2019
 [Full Text](https://www.nature.com/articles/s42003-019-0583-3)
