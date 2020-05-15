@@ -3,7 +3,7 @@ Hello, I'm a researcher in the field of biophysics, soft matter and synthetic bi
 [Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ), [CV](CV%20Steinkuehler.pdf) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
 ### First author publications ###
-1. 1.	Energy Dissipation at Interfaces Drives Multicompartment Remodeling, J. Steinkühler, N.H. Kamat (2020) _Chem_ [Full Text](j.chempr.2020.04.010.pdf)
+1. Energy Dissipation at Interfaces Drives Multicompartment Remodeling, J. Steinkühler, N.H. Kamat (2020) _Chem_ [Full Text](j.chempr.2020.04.010.pdf)
 1. Controlled division of cell-sized vesicles by low densities of membrane-bound proteins, J. Steinkühler, R.L. Knorr, Z. Zhao, T. Bhatia, S.M. Bartelt, S. Wegner, R. Dimova and R. Lipowsky, _Nature Communications_, 11(1), 1-11 (2020) [Full Text](https://www.nature.com/articles/s41467-020-14696-0) [Press release](http://www.mpikg.mpg.de/6260641/news_publication_14488959_transferred?c=132305)
 1. Mechanical properties of plasma membrane vesicles correlate with lipid order, viscosity and cell density, J. Steinkühler, E. Sezgin, I. Urbančič, C. Eggeling, R. Dimova
 _Communications Biology_, Volume 2, 337 2019
