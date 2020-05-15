@@ -1,6 +1,6 @@
 Hello, I'm a researcher in the field of biophysics, soft matter and synthetic biology. In the past years my research was focused on the understanding, assembly and applications of biomembranes. I did my PhD in the [Dimova Lab](http://www.dimova.de) at the [Max Planck Institute of Colloids and Interfaces](http://www.mpikg.mpg.de/th). After my first postdoc with Reinhard Lipowsky, I'm currently working with with [Neha Kamat](https://www.nehakamat.com/). I mostly work experimentally and use software tools to analyze and understand data acquired in the lab. In the future, I will upload some of the software here.
 
-[Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
+[Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ), [CV](CV%20Steinkuehler.pdf) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
 ### First author publications ###
 1. Controlled division of cell-sized vesicles by low densities of membrane-bound proteins, J. Steinkühler, R.L. Knorr, Z. Zhao, T. Bhatia, S.M. Bartelt, S. Wegner, R. Dimova and R. Lipowsky, _Nature Communications_, 11(1), 1-11 (2020) [Full Text](https://www.nature.com/articles/s41467-020-14696-0) [Press release](http://www.mpikg.mpg.de/6260641/news_publication_14488959_transferred?c=132305)
