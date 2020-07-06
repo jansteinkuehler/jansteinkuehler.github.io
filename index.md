@@ -1,6 +1,6 @@
 Hello, I'm a researcher in the field of biophysics, soft matter and synthetic biology. In the past years my research was focused on the understanding, assembly and applications of biomembranes. I obtained my PhD in the [Dimova Lab](http://www.dimova.de) at the [Max Planck Institute of Colloids and Interfaces](http://www.mpikg.mpg.de/th). After my first postdoc with Reinhard Lipowsky, I'm currently working with with [Neha Kamat](https://www.nehakamat.com/). I mostly work experimentally and use software tools to analyze and understand data acquired in the lab. In the future, I will upload some of the software here.
 
-[Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ), [CV](CV%20Steinkuehler.pdf) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
+[Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ), [CV](CV%20Steinkuehler.pdf), [e-mail](jan.steinkuehler@gmail.com) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
 ### First author publications ###
 1. Energy Dissipation at Interfaces Drives Multicompartment Remodeling, J. Steinkühler, N.H. Kamat (2020) _Chem_ [Full Text](j.chempr.2020.04.010.pdf)
