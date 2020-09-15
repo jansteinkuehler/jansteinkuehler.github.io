@@ -19,7 +19,7 @@ Figure 1.Confocal image (side-view) of an adhering vesicle. Membrane (green) and
 3. After clicking ok the macro selects the polygon tool which you use to roughly select the membrane countur as shown in Fig 1C.
 4. In the next step a smooth spline is fitted through your points. Now is the time to correct the location of the points to accuratly represent the membrane countour like shown in Fig 1D.
 6. This will store the coordinates of the contour and adhesion disc in a file named after the image file. Note that also the origina image file is overwritten with the contour overlayed. In the following the textfile with the coordiantes is called ```1.txt```.
-5. Now start MATLAB and make sure that you download ```getRV3.m``` and ```tordeux_adhesive.m``` (links below) and all files are in the same path. Now you can calculate the area, volume and reduced volume from this contour. Call ```getRV3(data,scale)``` with the datafile and ```scale``` the pixelsize in units of µm.
+5. Now start MATLAB and make sure that you download ```getRV.m``` and ```tordeux_adhesive.m``` (links below) and all files are in the same path. Now you can calculate the area, volume and reduced volume from this contour. Call ```getRV3(data,scale)``` with the datafile and ```scale``` the pixelsize in units of µm.
 ```
 >> data=importdata("1.txt");
 >> [rv,avg,dev,discarea]=getRV3(data,7.2)
@@ -41,3 +41,10 @@ ans =
     0.4467
 ```
 5. The result is the adhesion energy normalized by bending ridigity kappa in units of microm^(-2). I recommend to first obtain a series of images of the same vesicle and calculate the adhesion energies for this individual vesicle. This will give you a feeling for the quality of your images and extracting of area and volume.
+
+1.	Modulating Vesicle Adhesion by Electric Fields, J. Steinkühler, J. Agudo-Canalejo, R. Lipowsky, R. Dimova
+_Biophysical Journal_ 111 (7), 1454-1464, 2016 
+[Full Text](https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(16)30751-2)
+2. [[getRV.m]](adhesionenergy/getRV.m)
+2. [[tordeux_adhesive.m]](adhesionenergy/tordeux_adhesive.m)
+
