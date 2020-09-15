@@ -1,9 +1,9 @@
 ## Measuring membrane-substrate adhesion energy from images of adhering vesicles ##
 
 In contact with an adhesive substrate, vesicles with fluid membranes will deform to maximize the adhesion area. 
-The balance between adhesion energy, membrane bending rigidity and the vesicle volume and surface constrains determines the shape 
+The balance between adhesion energy, membrane bending rigidity and vesicle volume and membrane area constrains determines the shape 
 of the adhering vesicle. Thus measurements of the shape of an adhering vesicle can be used to approximate the 
-membrane-substrate adhesion energy. Experimentally the method is based on fluorescence confocal imaging of adhering GUVs. Details of the method are given in the references (1,2) which should be read first. In the following the application and image analysis tools used are described. 
+membrane-substrate adhesion energy. Experimentally the method is based on fluorescence confocal imaging of adhering GUVs. Details of the method are given in the references (1,2) which should be read first. In the following the application and image analysis tools used are described. Basic knowledge of MATLAB and ImageJ is assumed.
 
 Note: The imaging quality and resolution will determine the accuracy of the method and should be optimized first.
 It is advantageous to use a high NA water Immersion objective to limit spherical aberrations and achieve high resolution.
@@ -15,10 +15,10 @@ Figure 1.Confocal image (side-view) of an adhering vesicle. Membrane (green) and
 
 ### Steps to measure adhesion energy ###
 1. The first step is to load your image into ImageJ or Fiji and load the macro provided below. After downloading you can find the open the macro using Plugin -> Macros in Imagej/Fiji.
-2. After starting the macro will ask you to "select the ground line" (Fig. 1B). This line is used to determine the adhesion area and the extracted adhesion energy can be quite senstive to the precise value of adhesion area. Thus be consistent as what to count as the adhesion zone. In the overlay image of substrate and membrane signal the overlap can determind quite well by eye as the yellow region, but you might consider to use a more quantivtive aproch for this measure. This should improve the scatter of the data greatly.
-3. After clicking ok the macro selects the polygon tool which you use to roughly select the membrane countur as shown in Fig 1C.
-4. In the next step a smooth spline is fitted through your points. Now is the time to correct the location of the points to accuratly represent the membrane countour like shown in Fig 1D.
-6. This will store the coordinates of the contour and adhesion disc in a file named after the image file. Note that also the origina image file is overwritten with the contour overlayed. In the following the textfile with the coordiantes is called ```1.txt```.
+2. After starting the macro will ask you to "select the ground line" (Fig. 1B). This line is used to determine the adhesion area and the extracted adhesion energy can be quite sensitive to the precise value of adhesion area. Thus be consistent as what to count as the adhesion zone. In the overlay image of substrate and membrane signal the overlap can determined quite well by eye as the yellow region, but you might consider to use a more quantitate approach for this measure. This should improve the scatter of the data greatly.
+3. After clicking ok the macro selects the polygon tool which you use to roughly select the membrane contour as shown in Fig 1C.
+4. In the next step a smooth spline is fitted through your points. Now is the time to correct the location of the points to accurately represent the membrane contour like shown in Fig 1D.
+6. This will store the coordinates of the contour and adhesion disc in a file named after the image file. Note that also the original image file is overwritten with the contour overlayed. In the following the textfile with the coordinates is called ```1.txt```.
 5. Now start MATLAB and make sure that you download ```getRV.m``` and ```tordeux_adhesive.m``` (links below) and all files are in the same path. Now you can calculate the area, volume and reduced volume from this contour. Call ```getRV3(data,scale)``` with the datafile and ```scale``` the pixelsize in units of µm.
 ```
 >> data=importdata("1.txt");
@@ -40,7 +40,7 @@ discarea =
 ans =
     0.4467
 ```
-5. The result is the adhesion energy normalized by bending ridigity kappa in units of microm^(-2). I recommend to first obtain a series of images of the same vesicle and calculate the adhesion energies for this individual vesicle. This will give you a feeling for the quality of your images and extracting of area and volume.
+5. The result is the adhesion energy normalized by bending ridigity kappa in units of µm^(-2). I recommend to first obtain a series of images of the same vesicle and calculate the adhesion energies for this individual vesicle. This will give you a feeling for the quality of your images and extracting of area and volume.
 
 ## References
 1.	Modulating Vesicle Adhesion by Electric Fields, J. Steinkühler, J. Agudo-Canalejo, R. Lipowsky, R. Dimova
