@@ -46,6 +46,8 @@ ans =
 1.	Modulating Vesicle Adhesion by Electric Fields, J. Steinkühler, J. Agudo-Canalejo, R. Lipowsky, R. Dimova
 _Biophysical Journal_ 111 (7), 1454-1464, 2016 
 [Full Text](https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(16)30751-2)
+2. Analytical characterization of adhering vesicles, Tordeux, C., J-B. Fournier, and P. Galatola
+_Physical Review E_ 65.4 041912, 2002
 2. [[getRV.m]](adhesionenergy/getRV.m)
 2. [[tordeux_adhesive.m]](adhesionenergy/tordeux_adhesive.m)
 
