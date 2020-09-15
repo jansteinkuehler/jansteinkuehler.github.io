@@ -42,6 +42,7 @@ ans =
 ```
 5. The result is the adhesion energy normalized by bending ridigity kappa in units of microm^(-2). I recommend to first obtain a series of images of the same vesicle and calculate the adhesion energies for this individual vesicle. This will give you a feeling for the quality of your images and extracting of area and volume.
 
+## References
 1.	Modulating Vesicle Adhesion by Electric Fields, J. Steinkühler, J. Agudo-Canalejo, R. Lipowsky, R. Dimova
 _Biophysical Journal_ 111 (7), 1454-1464, 2016 
 [Full Text](https://linkinghub.elsevier.com/retrieve/pii/S0006-3495(16)30751-2)
