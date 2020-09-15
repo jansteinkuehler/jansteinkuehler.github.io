@@ -1,4 +1,4 @@
-function [rv,avg,dev,discarea] = getRV3(rawdata,res)
+function [rv,avg,dev,discarea] = getRV(rawdata,res)
     % Takes the middle of the adhesion disk as center of rotationalsymetry
     xbase = rawdata(1,1) + (rawdata(2,1)-rawdata(1,1))/2;
     data(:,1) = rawdata(3:end,1) - xbase;
