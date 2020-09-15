@@ -18,7 +18,7 @@ Figure 1.Confocal image (side-view) of an adhering vesicle. Membrane (green) and
 2. After starting the macro will ask you to "select the ground line" (Fig. 1B). This line is used to determine the adhesion area and the extracted adhesion energy can be quite sensitive to the precise value of adhesion area. Thus be consistent as what to count as the adhesion zone. In the overlay image of substrate and membrane signal the overlap can determined quite well by eye as the yellow region, but you might consider to use a more quantitate approach for this measure. For example you could calculate the co-localization of the two channels. This should improve the scatter of the data greatly.
 3. After clicking ok the macro selects the polygon tool which you use to roughly select the membrane contour as shown in Fig 1C.
 4. In the next step a smooth spline is fitted through your points. Now is the time to correct the location of the points to accurately represent the membrane contour like shown in Fig 1D.
-6. The script will store the coordinates of the contour and adhesion disc in a file named after the image file. **Note that the original image file is overwritten with the contour overlayed.** The script will then open the next image file in the current directory and you can repeat steps 1-6 for each of your images. In the following the textfile with the coordinates for a particular image is called ```1.txt```.
+6. The script will store the coordinates of the contour and adhesion disc in a file named after the image file. **Note that the original image file is overwritten with the contour overlayed.** The script will then open the next image file in the current directory and you can repeat steps 2-6 for each of your images. In the following the textfile with the coordinates for a particular image is called ```1.txt```.
 5. Now start MATLAB and make sure that you download ```getRV.m``` and ```tordeux_adhesive.m``` (links below) and all files are in the same path. Now you can calculate the area, volume and reduced volume from this contour. Call ```getRV(data,scale)``` with the datafile and ```scale``` the pixelsize in units of µm.
 ```
 >> data=importdata("1.txt");
@@ -34,13 +34,15 @@ dev =
 discarea =
    2.7559e+03
 ```
-6.  Each image is divided along the midpoint of the "ground line" selected in Fiji in Step 2. Thus for each image you get two values for vesicle area and volume. Here ```rv``` is the reduced volume, ```avg[1]``` is the average area from the two mirror images, ```avg[2]``` the corresponding vesicle volume and average reduced volume ```avg[3]```. As a rule of thumb the corresponding standard deviations in ```dev```should be a at least a factor of 10 smaller then the average values. ```discarea```is the total adhesion area calculated from the "Ground line". The adhesion energy is calculated from these values:
+6.  Each image is divided along the midpoint of the "ground line" selected in Fiji in Step 2. Thus for each image you get two values for vesicle area and volume. Here ```rv``` is the reduced volume, ```avg[1]``` is the average area from the two mirror images, ```avg[2]``` the corresponding vesicle volume and average reduced volume ```avg[3]```. As a rule of thumb the corresponding standard deviations in ```dev``` should be a at least a factor of 10 smaller then the average values. ```discarea``` is the total adhesion area calculated from the "Ground line". The adhesion energy is calculated from these values:
  ```
 >> tordeux_adhesive(rv,avg,dev,discarea)
 ans =
     0.4467
 ```
-5. The result is the adhesion energy normalized by bending ridigity kappa in units of µm^(-2). I recommend to first obtain a series of images of the same vesicle and calculate the adhesion energies for this individual vesicle. This will give you a feeling for the quality of your images and extracting of area and volume.
+5. The result is the adhesion energy normalized by bending rigidity kappa in units of µm^(-2). I recommend to first obtain a series of images of the same vesicle and calculate the adhesion energies for this individual vesicle. This will give you a feeling for the scatter in the calculated quantities.
+
+If you found the analysis useful, please cite the corresponding articles.
 
 ## References
 1.	Modulating Vesicle Adhesion by Electric Fields, J. Steinkühler, J. Agudo-Canalejo, R. Lipowsky, R. Dimova
