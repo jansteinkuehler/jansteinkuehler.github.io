@@ -14,7 +14,7 @@ Because the adhering vesicle shapes considered must be rotationally symmetric, i
 Figure 1.Confocal image (side-view) of an adhering vesicle. Membrane (green) and substrate (red).
 
 ### Steps to measure adhesion energy ###
-1. The first step is to load your image into ImageJ or Fiji and load the macro provided below. After downloading you can find the open the macro using Plugin -> Macros in Imagej/Fiji.
+1. The first step is to load your image into ImageJ or Fiji and load the macro provided below. After downloading into the appropriate folder of your Imagej copy, you can find the macro using Plugin -> Macros in Imagej/Fiji. Make sure that you have calibrated ImageJ to the correct pixel-size (e.g. to display length in µm).
 2. After starting the macro will ask you to "select the ground line" (Fig. 1B). This line is used to determine the adhesion area and the extracted adhesion energy can be quite sensitive to the precise value of adhesion area. Thus be consistent as what to count as the adhesion zone. In the overlay image of substrate and membrane signal the overlap can determined quite well by eye as the yellow region, but you might consider to use a more quantitate approach for this measure. This should improve the scatter of the data greatly.
 3. After clicking ok the macro selects the polygon tool which you use to roughly select the membrane contour as shown in Fig 1C.
 4. In the next step a smooth spline is fitted through your points. Now is the time to correct the location of the points to accurately represent the membrane contour like shown in Fig 1D.
