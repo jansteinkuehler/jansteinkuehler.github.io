@@ -1,4 +1,4 @@
-## Measuring membrane-substrate adhesion energy from images of adhering vesicles ##
+## Measuring adhesion energy from the shape of adhering vesicles
 
 In contact with an adhesive substrate, vesicles with fluid membranes will deform to maximize the adhesion area. 
 The balance between adhesion energy, membrane bending rigidity and vesicle volume and membrane area constrains determines the shape 
@@ -51,3 +51,5 @@ _Physical Review E_ 65.4 041912, 2002
 2. [getRV.m](adhesionenergy/getRV.m)
 2. [tordeux_adhesive.m](adhesionenergy/tordeux_adhesive.m)
 3. [ImageJ Macro](adhesionenergy/imagejcontour.ijm)
+
+[Back](http://jansteinkuehler.github.io)
