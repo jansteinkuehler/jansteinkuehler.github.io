@@ -35,7 +35,7 @@ discarea =
    2.7559e+03
 ```
 6.  Each image is divided along the midpoint of the "ground line" selected in Fiji in Step 2. Thus for each image you get two values for vesicle area and volume. Here ```rv``` is the reduced volume, ```avg[1]``` is the average area from the two mirror images, ```avg[2]``` the corresponding vesicle volume and average reduced volume ```avg[3]```. As a rule of thumb the corresponding standard deviations in ```dev``` should be a at least a factor of 10 smaller then the average values. ```discarea``` is the total adhesion area calculated from the "Ground line". The adhesion energy is calculated from these values:
- ```
+```
 >> tordeux_adhesive(rv,avg,dev,discarea)
 ans =
     0.4467
