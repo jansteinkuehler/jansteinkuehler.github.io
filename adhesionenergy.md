@@ -40,7 +40,7 @@ discarea =
 ans =
     0.4467
 ```
-5. The result is the adhesion energy normalized by bending rigidity kappa in units of µm^(-2). I recommend to first obtain a series of images of the same vesicle and calculate the adhesion energies for this individual vesicle. This will give you a feeling for the scatter in the calculated quantities.
+5. The result is the adhesion energy divided by the bending rigidity kappa in units of µm^(-2). I recommend to first obtain a series of images of the same vesicle and calculate the adhesion energies for this individual vesicle. This will give you a feeling for the scatter in the calculated quantities.
 
 If you found the analysis useful, please cite the corresponding articles.
 
