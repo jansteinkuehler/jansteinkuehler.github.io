@@ -5,9 +5,10 @@ Hello, I'm a researcher in the field of biophysics, soft matter and synthetic bi
 [Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ), [CV](CV%20Steinkuehler.pdf), [e-mail](mailto:jan.steinkuehler@gmail.com) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
 ### First author publications ###
-1. Energy Dissipation at Interfaces Drives Multicompartment Remodeling, J. Steinkühler, N.H. Kamat (2020) _Chem_ [Full Text](j.chempr.2020.04.010.pdf)
-1. Controlled division of cell-sized vesicles by low densities of membrane-bound proteins, J. Steinkühler, R.L. Knorr, Z. Zhao, T. Bhatia, S.M. Bartelt, S. Wegner, R. Dimova and R. Lipowsky, _Nature Communications_, 11(1), 1-11 (2020) [Full Text](https://www.nature.com/articles/s41467-020-14696-0) [Press release](http://www.mpikg.mpg.de/6260641/news_publication_14488959_transferred?c=132305)
-1. Mechanical properties of plasma membrane vesicles correlate with lipid order, viscosity and cell density, J. Steinkühler, E. Sezgin, I. Urbančič, C. Eggeling, R. Dimova
+1. Superelasticity of Plasma-and Synthetic Membranes Resulting from Coupling of Membrane Asymmetry, Curvature, and Lipid Sorting, Steinkühler, J., Fonda, P., Bhatia, T., Zhao, Z., Leomil, F. S., Lipowsky, R., & Dimova, R. (2021) _Advanced Science_, 2102109.[Full Text](http://https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202102109)
+2. Energy Dissipation at Interfaces Drives Multicompartment Remodeling, J. Steinkühler, N.H. Kamat (2020) _Chem_ [Full Text](j.chempr.2020.04.010.pdf)
+3. Controlled division of cell-sized vesicles by low densities of membrane-bound proteins, J. Steinkühler, R.L. Knorr, Z. Zhao, T. Bhatia, S.M. Bartelt, S. Wegner, R. Dimova and R. Lipowsky, _Nature Communications_, 11(1), 1-11 (2020) [Full Text](https://www.nature.com/articles/s41467-020-14696-0) [Press release](http://www.mpikg.mpg.de/6260641/news_publication_14488959_transferred?c=132305)
+4. Mechanical properties of plasma membrane vesicles correlate with lipid order, viscosity and cell density, J. Steinkühler, E. Sezgin, I. Urbančič, C. Eggeling, R. Dimova
 _Communications Biology_, Volume 2, 337 2019
 [Full Text](https://www.nature.com/articles/s42003-019-0583-3)
 5.	Membrane fluctuations and acidosis regulate cooperative binding of “marker of self” CD47 with macrophage checkpoint receptor SIRPα, J. Steinkühler, B. Różycki, C. Alvey, R. Lipowsky, T.R. Weikl, R. Dimova., D. E. Discher
