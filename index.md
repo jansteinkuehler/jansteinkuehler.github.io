@@ -6,7 +6,7 @@ I obtained my PhD in the [Dimova Lab](http://www.dimova.de). I did my first post
 
 [PEO-b-PBD Diblock copolymer example bilayer structure, topology, force field, and simulation parameter for use with GROMACS 2020](http://jansteinkuehler.github.io/bm2c00936_si_002.zip)
 
-[Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ), [e-mail](mailto:jan.steinkuehler@gmail.com) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
+[Full publication list at Google Scholar](https://scholar.google.de/citations?user=2Dzpoo0AAAAJ), [e-mail](mailto:jst@tf.uni-kiel.de) and twitter [@ja_steinkuehler](https://twitter.com/ja_steinkuehler).
 
 ### First author publications ###
 1. PEO-b-PBD Diblock Copolymers Induce Packing Defects in Lipid/Hybrid Membranes and Improve Insertion Rates of Natively Folded Peptides, Steinkühler, J., Jacobs, M. L., Boyd, M. A., Villaseñor, C. G., Loverde, S. M., & Kamat, N. P.  _Biomacromolecules_ 23, 4756−4765 (2022) [Full Text](https://jansteinkuehler.github.io/acs.biomac.2c00936.pdf) 
